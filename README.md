@@ -159,7 +159,7 @@ void solve() {
 	cout << mx << "\n";
 }
 ```
-### 1.3. Rotate Vector Left or right
+### 1.3. Rotate the Vector Left or right
 
 ```cpp
 // Array - 1 2 3 4 5 6 7 8 9
