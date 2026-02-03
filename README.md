@@ -173,7 +173,7 @@ rotate(vec1.begin(), vec1.begin() + 3, vec1.end());
 rotate(vec1.begin(), vec1.begin() - 3, vec1.end());
 ```
 
-### 1.4. Find element in vector and replace it
+### 1.4. Find the element in vector and replace it
 ```cpp
 auto it = find (V.begin(), V.end(), num);
 // it - V.begin() will given index of given num [0-indexed]
